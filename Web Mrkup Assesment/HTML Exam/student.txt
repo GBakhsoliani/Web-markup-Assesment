@@ -1,0 +1,7 @@
+student name:Georg M Bachsoliani
+
+student number:644390
+
+student class: IT1A
+
+URL student GitHub repository: https://github.com/GBakhsoliani
